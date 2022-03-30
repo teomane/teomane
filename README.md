@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Follow me on medium:
+https://emreteoman.medium.com
+
 <!--
 **teomane/teomane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
